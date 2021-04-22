@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CleanArchitectureAndroid</string>
+    <string name="itemimageholder">itemImageHolder</string>
+    <string name="request_new_location">Request new location</string>
+</resources>
